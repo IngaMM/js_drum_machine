@@ -1,0 +1,43 @@
+body {
+  background-color: lightgrey;
+}
+
+#display {
+  height: 100px;
+  width: 495px;
+  margin: auto;
+  border: 1px solid black;
+  text-align: center;
+  font-size: 80px;
+  border-radius: 7px;
+  background-color: lightgrey;
+  box-shadow: 0 3px #999;
+}
+
+#buttons {
+  width: 495px;
+  margin: auto;
+  margin-top: 20px;
+  display: grid;
+  grid-template-columns: 160px 160px 160px;
+  font-size: 50px;
+  grid-gap: 8px;
+}
+
+.drum-pad {
+  border: 1px solid black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 5px;
+  box-shadow: 0 3px #999;
+}
+
+.drum-pad:hover {
+  cursor: pointer;
+}
+
+.drum-pad:active {
+  box-shadow: 0 1px #666;
+  transform: translateY(2px);
+}
