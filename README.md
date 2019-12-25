@@ -12,7 +12,7 @@ Instructions
 3. Open index.html with a browser.
 
 Discussion
-I used the following technologies: HTML, CSS, Javascript with React.
+I used the following technologies: HTML, CSS, Javascript with React and Jquery.
 
 Requirements
 npm, Browser
