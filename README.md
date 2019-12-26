@@ -14,5 +14,7 @@ Instructions
 Discussion
 I used the following technologies: HTML, CSS, Javascript with React and Jquery.
 
+A live version can be seen at https://codepen.io/IngaMM/full/QzGWMX
+
 Requirements
 npm, Browser
